@@ -55,6 +55,7 @@ header .navbar ul li a {
   font-size: 1.25rem;
 }
 .leftsection h1 {
+  width: 40%;
   margin: 20px 0;
   font-size: 3.37rem;
 }
